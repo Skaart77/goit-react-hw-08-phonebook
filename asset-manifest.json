@@ -1,13 +1,24 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-08-phonebook/static/js/main.07d3183d.js",
+    "main.css": "/goit-react-hw-08-phonebook/static/css/main.8791c390.css",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.9f71df20.js",
+    "static/js/266.4b1eb0eb.chunk.js": "/goit-react-hw-08-phonebook/static/js/266.4b1eb0eb.chunk.js",
+    "static/js/139.adbecc84.chunk.js": "/goit-react-hw-08-phonebook/static/js/139.adbecc84.chunk.js",
+    "static/js/960.69c2110d.chunk.js": "/goit-react-hw-08-phonebook/static/js/960.69c2110d.chunk.js",
+    "static/js/259.6869e5f8.chunk.js": "/goit-react-hw-08-phonebook/static/js/259.6869e5f8.chunk.js",
+    "static/js/861.126fe40f.chunk.js": "/goit-react-hw-08-phonebook/static/js/861.126fe40f.chunk.js",
+    "static/media/avatar.png": "/goit-react-hw-08-phonebook/static/media/avatar.934339d98b117001e1d3.png",
     "index.html": "/goit-react-hw-08-phonebook/index.html",
-    "main.7acaea2f.css.map": "/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goit-react-hw-08-phonebook/static/js/main.07d3183d.js.map"
+    "main.8791c390.css.map": "/goit-react-hw-08-phonebook/static/css/main.8791c390.css.map",
+    "main.9f71df20.js.map": "/goit-react-hw-08-phonebook/static/js/main.9f71df20.js.map",
+    "266.4b1eb0eb.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/266.4b1eb0eb.chunk.js.map",
+    "139.adbecc84.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/139.adbecc84.chunk.js.map",
+    "960.69c2110d.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/960.69c2110d.chunk.js.map",
+    "259.6869e5f8.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/259.6869e5f8.chunk.js.map",
+    "861.126fe40f.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/861.126fe40f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.8791c390.css",
+    "static/js/main.9f71df20.js"
   ]
 }
